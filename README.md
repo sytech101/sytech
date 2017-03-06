@@ -1,0 +1,2 @@
+# sytech
+Student Information System
